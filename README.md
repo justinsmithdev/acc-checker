@@ -1,3 +1,1 @@
-"# acc-checker" 
-"# acc-checker" 
-"# acc-checker" 
+This tool is the facebook account ID duplicate checker
